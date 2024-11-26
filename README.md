@@ -1,0 +1,1 @@
+# internship_static_website
